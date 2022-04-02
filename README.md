@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=zenoyang)
+
 ### Hi there 👋
 
 [![ZenoYang's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenoyang&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
